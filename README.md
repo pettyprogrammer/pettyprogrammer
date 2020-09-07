@@ -1,9 +1,10 @@
 ### Hi there, I'm Sazzat sadi 👋
 
-- 🔭 I’m currently working on my self👋!
+- 🔭 I’m currently working on my self🤩!
 - 🌱 I’m currently learning Web design and development 🤣!
 - 👯 I’m looking to collaborate with other content creators !
-- 🥅 2020 Goals: i'm create my best version [youtube-:-petty programmer]!
+- 💬 Ask me about anything [here](https://web.facebook.com/pettyprogrammers)
+- 🥅 2020 Goals: i'm create my best version!
 - ⚡ Fun fact: I love to get together my friend !
 
 ### Connect with me:
