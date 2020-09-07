@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-<a href="https://www.youtube.com/c/PettyProgrammer" target="blank"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://www.youtube.com/c/PettyProgrammer" target="_blank"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 <br />
