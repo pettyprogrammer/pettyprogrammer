@@ -1,4 +1,4 @@
-### Hi there, I'm Sazzat sadi 👋
+### Hi There, I'm Sazzat sadi 👋
 
 - 🔭 I’m currently working on my self🤩!
 - 🌱 I’m currently learning Web design and development 🤣!
