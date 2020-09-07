@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my self👋!
 - 🌱 I’m currently learning Web design and development 🤣!
 - 👯 I’m looking to collaborate with other content creators !
-- 🥅 2020 Goals: i'm create my best version !
+- 🥅 2020 Goals: i'm create my best version youtube-:-petty programmer!
 - ⚡ Fun fact: I love to get together my friend !
 
 ### Connect with me:
