@@ -33,6 +33,4 @@
   
   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
    <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" /></a> 
-   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2Fhbxbooi_transparent-sublime-text-icon-hd-png-download%2F&psig=AOvVaw1sl87dnpe46BuT94Cgt6TC&ust=1601873448871000&source=images&cd=vfe&ved=2ahUKEwioibfgkZrsAhVPMysKHdoBA6MQr4kDegUIARC6AQ" /></a> 
-   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a> 
-   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+
