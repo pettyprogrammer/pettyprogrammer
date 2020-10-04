@@ -25,4 +25,6 @@
 <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /></a>
 <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+  <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" /></a>
+    <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" /></a>
   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
