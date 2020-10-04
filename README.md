@@ -29,5 +29,6 @@
     <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" /></a>
       <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
   
-  ### Top 5 Best text Editor-:-
+ ### Top 5 Best text Editor-:-
+  
   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
