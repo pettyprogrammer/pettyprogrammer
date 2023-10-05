@@ -9,9 +9,9 @@
 
 ### Connect with me-:-
 
-<a href="https://www.youtube.com/c/PettyProgrammer" target="_blank"><img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/></a>
+<a href="https://www.youtube.com/c/PettyProgrammer" target="_blank"><img align="left" alt="" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/></a>
 
-<a href="https://web.facebook.com/pettyprogrammers"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+<a href="https://web.facebook.com/pettyprogrammers"><img align="left" alt="" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/800px-Facebook_logo_%28square%29.png"/></a>
 
 <br />
 
