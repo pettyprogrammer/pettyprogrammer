@@ -18,9 +18,6 @@
 
 <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="" width="100px" src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png" /></a>
 
-
- ### text Editor-:-
-  
-  <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-   <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" /></a> 
+  <a href="https://www.youtube.com/c/PettyProgrammer"><img align="left" alt="Visual Studio Code" width="100px" src="https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png" /></a>
+   
 
