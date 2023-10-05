@@ -11,7 +11,7 @@
 
 <a href="https://www.youtube.com/c/PettyProgrammer" target="_blank"><img align="left" alt="" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"/></a>
 
-<a href="https://web.facebook.com/pettyprogrammers"><img align="left" alt="" width="30px" src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Emblem.png"/></a>
+<a href="https://web.facebook.com/pettyprogrammers"><img align="left" alt="" width="50px" src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Emblem.png"/></a>
 
 <br />
 
